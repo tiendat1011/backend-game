@@ -1,0 +1,3509 @@
+[
+    {
+        "base_items": "50",
+        "add_items": "6",
+        "support": 0.0864,
+        "confidence": 0.5524296675,
+        "lift": 2.7844237274
+    },
+    {
+        "base_items": "6",
+        "add_items": "50",
+        "support": 0.0864,
+        "confidence": 0.435483871,
+        "lift": 2.7844237274
+    },
+    {
+        "base_items": "107",
+        "add_items": "6",
+        "support": 0.063,
+        "confidence": 0.5440414508,
+        "lift": 2.7421444092
+    },
+    {
+        "base_items": "6",
+        "add_items": "107",
+        "support": 0.063,
+        "confidence": 0.3175403226,
+        "lift": 2.7421444092
+    },
+    {
+        "base_items": "3",
+        "add_items": "1",
+        "support": 0.0562,
+        "confidence": 0.7533512064,
+        "lift": 6.0364680003
+    },
+    {
+        "base_items": "1",
+        "add_items": "3",
+        "support": 0.0562,
+        "confidence": 0.4503205128,
+        "lift": 6.0364680003
+    },
+    {
+        "base_items": "27",
+        "add_items": "6",
+        "support": 0.0562,
+        "confidence": 0.5281954887,
+        "lift": 2.6622756488
+    },
+    {
+        "base_items": "6",
+        "add_items": "27",
+        "support": 0.0562,
+        "confidence": 0.283266129,
+        "lift": 2.6622756488
+    },
+    {
+        "base_items": "6",
+        "add_items": "1",
+        "support": 0.0552,
+        "confidence": 0.2782258065,
+        "lift": 2.2293734491
+    },
+    {
+        "base_items": "1",
+        "add_items": "6",
+        "support": 0.0552,
+        "confidence": 0.4423076923,
+        "lift": 2.2293734491
+    },
+    {
+        "base_items": "2",
+        "add_items": "1",
+        "support": 0.0506,
+        "confidence": 0.7228571429,
+        "lift": 5.7921245421
+    },
+    {
+        "base_items": "1",
+        "add_items": "2",
+        "support": 0.0506,
+        "confidence": 0.4054487179,
+        "lift": 5.7921245421
+    },
+    {
+        "base_items": "96",
+        "add_items": "50",
+        "support": 0.0438,
+        "confidence": 0.4630021142,
+        "lift": 2.9603715739
+    },
+    {
+        "base_items": "50",
+        "add_items": "96",
+        "support": 0.0438,
+        "confidence": 0.2800511509,
+        "lift": 2.9603715739
+    },
+    {
+        "base_items": "96",
+        "add_items": "6",
+        "support": 0.0438,
+        "confidence": 0.4630021142,
+        "lift": 2.3336800109
+    },
+    {
+        "base_items": "6",
+        "add_items": "96",
+        "support": 0.0438,
+        "confidence": 0.220766129,
+        "lift": 2.3336800109
+    },
+    {
+        "base_items": "3",
+        "add_items": "2",
+        "support": 0.0436,
+        "confidence": 0.5844504021,
+        "lift": 8.3492914592
+    },
+    {
+        "base_items": "2",
+        "add_items": "3",
+        "support": 0.0436,
+        "confidence": 0.6228571429,
+        "lift": 8.3492914592
+    },
+    {
+        "base_items": "107",
+        "add_items": "27",
+        "support": 0.0434,
+        "confidence": 0.3747841105,
+        "lift": 3.5224070539
+    },
+    {
+        "base_items": "27",
+        "add_items": "107",
+        "support": 0.0434,
+        "confidence": 0.4078947368,
+        "lift": 3.5224070539
+    },
+    {
+        "base_items": "8",
+        "add_items": "6",
+        "support": 0.0412,
+        "confidence": 0.5770308123,
+        "lift": 2.9084214331
+    },
+    {
+        "base_items": "6",
+        "add_items": "8",
+        "support": 0.0412,
+        "confidence": 0.2076612903,
+        "lift": 2.9084214331
+    },
+    {
+        "base_items": "1, 2",
+        "add_items": "3",
+        "support": 0.0384,
+        "confidence": 0.7588932806,
+        "lift": 10.1728321801
+    },
+    {
+        "base_items": "3",
+        "add_items": "1, 2",
+        "support": 0.0384,
+        "confidence": 0.5147453083,
+        "lift": 10.1728321801
+    },
+    {
+        "base_items": "1, 3",
+        "add_items": "2",
+        "support": 0.0384,
+        "confidence": 0.6832740214,
+        "lift": 9.7610574479
+    },
+    {
+        "base_items": "2",
+        "add_items": "1, 3",
+        "support": 0.0384,
+        "confidence": 0.5485714286,
+        "lift": 9.7610574479
+    },
+    {
+        "base_items": "2, 3",
+        "add_items": "1",
+        "support": 0.0384,
+        "confidence": 0.880733945,
+        "lift": 7.0571630205
+    },
+    {
+        "base_items": "1",
+        "add_items": "2, 3",
+        "support": 0.0384,
+        "confidence": 0.3076923077,
+        "lift": 7.0571630205
+    },
+    {
+        "base_items": "50",
+        "add_items": "1",
+        "support": 0.0374,
+        "confidence": 0.2391304348,
+        "lift": 1.9161092531
+    },
+    {
+        "base_items": "1",
+        "add_items": "50",
+        "support": 0.0374,
+        "confidence": 0.2996794872,
+        "lift": 1.9161092531
+    },
+    {
+        "base_items": "182",
+        "add_items": "168",
+        "support": 0.0334,
+        "confidence": 0.6398467433,
+        "lift": 7.5811225509
+    },
+    {
+        "base_items": "168",
+        "add_items": "182",
+        "support": 0.0334,
+        "confidence": 0.3957345972,
+        "lift": 7.5811225509
+    },
+    {
+        "base_items": "50",
+        "add_items": "27",
+        "support": 0.033,
+        "confidence": 0.2109974425,
+        "lift": 1.9830586697
+    },
+    {
+        "base_items": "27",
+        "add_items": "50",
+        "support": 0.033,
+        "confidence": 0.3101503759,
+        "lift": 1.9830586697
+    },
+    {
+        "base_items": "40",
+        "add_items": "27",
+        "support": 0.0324,
+        "confidence": 0.648,
+        "lift": 6.0902255639
+    },
+    {
+        "base_items": "27",
+        "add_items": "40",
+        "support": 0.0324,
+        "confidence": 0.3045112782,
+        "lift": 6.0902255639
+    },
+    {
+        "base_items": "6, 96",
+        "add_items": "50",
+        "support": 0.0316,
+        "confidence": 0.7214611872,
+        "lift": 4.6129231919
+    },
+    {
+        "base_items": "50",
+        "add_items": "6, 96",
+        "support": 0.0316,
+        "confidence": 0.2020460358,
+        "lift": 4.6129231919
+    },
+    {
+        "base_items": "6, 50",
+        "add_items": "96",
+        "support": 0.0316,
+        "confidence": 0.3657407407,
+        "lift": 3.8661811918
+    },
+    {
+        "base_items": "96",
+        "add_items": "6, 50",
+        "support": 0.0316,
+        "confidence": 0.334038055,
+        "lift": 3.8661811918
+    },
+    {
+        "base_items": "50, 96",
+        "add_items": "6",
+        "support": 0.0316,
+        "confidence": 0.7214611872,
+        "lift": 3.636397113
+    },
+    {
+        "base_items": "50",
+        "add_items": "8",
+        "support": 0.0314,
+        "confidence": 0.2007672634,
+        "lift": 2.8118664346
+    },
+    {
+        "base_items": "8",
+        "add_items": "50",
+        "support": 0.0314,
+        "confidence": 0.4397759104,
+        "lift": 2.8118664346
+    },
+    {
+        "base_items": "168",
+        "add_items": "142",
+        "support": 0.0302,
+        "confidence": 0.3578199052,
+        "lift": 7.9163695844
+    },
+    {
+        "base_items": "142",
+        "add_items": "168",
+        "support": 0.0302,
+        "confidence": 0.6681415929,
+        "lift": 7.9163695844
+    },
+    {
+        "base_items": "123",
+        "add_items": "6",
+        "support": 0.0302,
+        "confidence": 0.4402332362,
+        "lift": 2.2189175209
+    },
+    {
+        "base_items": "5",
+        "add_items": "4",
+        "support": 0.0294,
+        "confidence": 0.6125,
+        "lift": 11.3007380074
+    },
+    {
+        "base_items": "4",
+        "add_items": "5",
+        "support": 0.0294,
+        "confidence": 0.5424354244,
+        "lift": 11.3007380074
+    },
+    {
+        "base_items": "107",
+        "add_items": "50",
+        "support": 0.029,
+        "confidence": 0.2504317789,
+        "lift": 1.601226208
+    },
+    {
+        "base_items": "10",
+        "add_items": "50",
+        "support": 0.0284,
+        "confidence": 0.4329268293,
+        "lift": 2.7680743559
+    },
+    {
+        "base_items": "6, 27",
+        "add_items": "107",
+        "support": 0.028,
+        "confidence": 0.4982206406,
+        "lift": 4.3024234937
+    },
+    {
+        "base_items": "107",
+        "add_items": "6, 27",
+        "support": 0.028,
+        "confidence": 0.2417962003,
+        "lift": 4.3024234937
+    },
+    {
+        "base_items": "6, 107",
+        "add_items": "27",
+        "support": 0.028,
+        "confidence": 0.4444444444,
+        "lift": 4.1771094403
+    },
+    {
+        "base_items": "27",
+        "add_items": "6, 107",
+        "support": 0.028,
+        "confidence": 0.2631578947,
+        "lift": 4.1771094403
+    },
+    {
+        "base_items": "1, 50",
+        "add_items": "6",
+        "support": 0.028,
+        "confidence": 0.7486631016,
+        "lift": 3.7735035363
+    },
+    {
+        "base_items": "27, 107",
+        "add_items": "6",
+        "support": 0.028,
+        "confidence": 0.6451612903,
+        "lift": 3.2518210198
+    },
+    {
+        "base_items": "1, 6",
+        "add_items": "50",
+        "support": 0.028,
+        "confidence": 0.5072463768,
+        "lift": 3.2432632788
+    },
+    {
+        "base_items": "6, 50",
+        "add_items": "1",
+        "support": 0.028,
+        "confidence": 0.3240740741,
+        "lift": 2.5967473884
+    },
+    {
+        "base_items": "1",
+        "add_items": "6, 50",
+        "support": 0.028,
+        "confidence": 0.2243589744,
+        "lift": 2.5967473884
+    },
+    {
+        "base_items": "10",
+        "add_items": "6",
+        "support": 0.028,
+        "confidence": 0.4268292683,
+        "lift": 2.1513571991
+    },
+    {
+        "base_items": "117",
+        "add_items": "6",
+        "support": 0.028,
+        "confidence": 0.4229607251,
+        "lift": 2.1318584933
+    },
+    {
+        "base_items": "148",
+        "add_items": "6",
+        "support": 0.0276,
+        "confidence": 0.3511450382,
+        "lift": 1.769884265
+    },
+    {
+        "base_items": "148",
+        "add_items": "50",
+        "support": 0.0272,
+        "confidence": 0.3460559796,
+        "lift": 2.2126341409
+    },
+    {
+        "base_items": "168",
+        "add_items": "141",
+        "support": 0.0268,
+        "confidence": 0.317535545,
+        "lift": 6.1064527889
+    },
+    {
+        "base_items": "141",
+        "add_items": "168",
+        "support": 0.0268,
+        "confidence": 0.5153846154,
+        "lift": 6.1064527889
+    },
+    {
+        "base_items": "102",
+        "add_items": "96",
+        "support": 0.0268,
+        "confidence": 0.4981412639,
+        "lift": 5.2657638894
+    },
+    {
+        "base_items": "96",
+        "add_items": "102",
+        "support": 0.0268,
+        "confidence": 0.2832980973,
+        "lift": 5.2657638894
+    },
+    {
+        "base_items": "17",
+        "add_items": "6",
+        "support": 0.0266,
+        "confidence": 0.440397351,
+        "lift": 2.2197447127
+    },
+    {
+        "base_items": "142",
+        "add_items": "141",
+        "support": 0.0262,
+        "confidence": 0.5796460177,
+        "lift": 11.1470388019
+    },
+    {
+        "base_items": "141",
+        "add_items": "142",
+        "support": 0.0262,
+        "confidence": 0.5038461538,
+        "lift": 11.1470388019
+    },
+    {
+        "base_items": "107",
+        "add_items": "1",
+        "support": 0.0248,
+        "confidence": 0.2141623489,
+        "lift": 1.7160444622
+    },
+    {
+        "base_items": "168",
+        "add_items": "6",
+        "support": 0.0248,
+        "confidence": 0.2938388626,
+        "lift": 1.481042654
+    },
+    {
+        "base_items": "118",
+        "add_items": "117",
+        "support": 0.0242,
+        "confidence": 0.4859437751,
+        "lift": 7.3405404094
+    },
+    {
+        "base_items": "117",
+        "add_items": "118",
+        "support": 0.0242,
+        "confidence": 0.3655589124,
+        "lift": 7.3405404094
+    },
+    {
+        "base_items": "117",
+        "add_items": "107",
+        "support": 0.0242,
+        "confidence": 0.3655589124,
+        "lift": 3.1568127149
+    },
+    {
+        "base_items": "107",
+        "add_items": "117",
+        "support": 0.0242,
+        "confidence": 0.2089810017,
+        "lift": 3.1568127149
+    },
+    {
+        "base_items": "27",
+        "add_items": "17",
+        "support": 0.0238,
+        "confidence": 0.2236842105,
+        "lift": 3.703380969
+    },
+    {
+        "base_items": "17",
+        "add_items": "27",
+        "support": 0.0238,
+        "confidence": 0.3940397351,
+        "lift": 3.703380969
+    },
+    {
+        "base_items": "17",
+        "add_items": "50",
+        "support": 0.0238,
+        "confidence": 0.3940397351,
+        "lift": 2.5194356464
+    },
+    {
+        "base_items": "117",
+        "add_items": "27",
+        "support": 0.0226,
+        "confidence": 0.3413897281,
+        "lift": 3.2085500761
+    },
+    {
+        "base_items": "27",
+        "add_items": "117",
+        "support": 0.0226,
+        "confidence": 0.212406015,
+        "lift": 3.2085500761
+    },
+    {
+        "base_items": "6, 50",
+        "add_items": "8",
+        "support": 0.022,
+        "confidence": 0.2546296296,
+        "lift": 3.5662413113
+    },
+    {
+        "base_items": "8",
+        "add_items": "6, 50",
+        "support": 0.022,
+        "confidence": 0.3081232493,
+        "lift": 3.5662413113
+    },
+    {
+        "base_items": "8, 50",
+        "add_items": "6",
+        "support": 0.022,
+        "confidence": 0.7006369427,
+        "lift": 3.531436203
+    },
+    {
+        "base_items": "6, 8",
+        "add_items": "50",
+        "support": 0.022,
+        "confidence": 0.5339805825,
+        "lift": 3.414198098
+    },
+    {
+        "base_items": "5",
+        "add_items": "1",
+        "support": 0.0218,
+        "confidence": 0.4541666667,
+        "lift": 3.6391559829
+    },
+    {
+        "base_items": "13",
+        "add_items": "12",
+        "support": 0.0216,
+        "confidence": 0.4615384615,
+        "lift": 12.0192307692
+    },
+    {
+        "base_items": "12",
+        "add_items": "13",
+        "support": 0.0216,
+        "confidence": 0.5625,
+        "lift": 12.0192307692
+    },
+    {
+        "base_items": "136",
+        "add_items": "134",
+        "support": 0.0216,
+        "confidence": 0.4337349398,
+        "lift": 10.5789009697
+    },
+    {
+        "base_items": "134",
+        "add_items": "136",
+        "support": 0.0216,
+        "confidence": 0.5268292683,
+        "lift": 10.5789009697
+    },
+    {
+        "base_items": "4",
+        "add_items": "2",
+        "support": 0.0214,
+        "confidence": 0.3948339483,
+        "lift": 5.6404849763
+    },
+    {
+        "base_items": "2",
+        "add_items": "4",
+        "support": 0.0214,
+        "confidence": 0.3057142857,
+        "lift": 5.6404849763
+    },
+    {
+        "base_items": "168",
+        "add_items": "50",
+        "support": 0.0214,
+        "confidence": 0.2535545024,
+        "lift": 1.6211924704
+    },
+    {
+        "base_items": "74",
+        "add_items": "50",
+        "support": 0.0212,
+        "confidence": 0.4344262295,
+        "lift": 2.777661314
+    },
+    {
+        "base_items": "2",
+        "add_items": "6",
+        "support": 0.0206,
+        "confidence": 0.2942857143,
+        "lift": 1.4832949309
+    },
+    {
+        "base_items": "10",
+        "add_items": "27",
+        "support": 0.0202,
+        "confidence": 0.3079268293,
+        "lift": 2.8940491473
+    },
+    {
+        "base_items": "117",
+        "add_items": "50",
+        "support": 0.0202,
+        "confidence": 0.3051359517,
+        "lift": 1.9509971334
+    },
+    {
+        "base_items": "10",
+        "add_items": "8",
+        "support": 0.02,
+        "confidence": 0.3048780488,
+        "lift": 4.2700006832
+    },
+    {
+        "base_items": "8",
+        "add_items": "10",
+        "support": 0.02,
+        "confidence": 0.2801120448,
+        "lift": 4.2700006832
+    },
+    {
+        "base_items": "27, 50",
+        "add_items": "6",
+        "support": 0.0196,
+        "confidence": 0.5939393939,
+        "lift": 2.9936461388
+    },
+    {
+        "base_items": "6, 27",
+        "add_items": "50",
+        "support": 0.0196,
+        "confidence": 0.3487544484,
+        "lift": 2.2298877775
+    },
+    {
+        "base_items": "6, 50",
+        "add_items": "27",
+        "support": 0.0196,
+        "confidence": 0.2268518519,
+        "lift": 2.1320662768
+    },
+    {
+        "base_items": "5",
+        "add_items": "2",
+        "support": 0.0194,
+        "confidence": 0.4041666667,
+        "lift": 5.7738095238
+    },
+    {
+        "base_items": "2",
+        "add_items": "5",
+        "support": 0.0194,
+        "confidence": 0.2771428571,
+        "lift": 5.7738095238
+    },
+    {
+        "base_items": "182",
+        "add_items": "142",
+        "support": 0.0192,
+        "confidence": 0.367816092,
+        "lift": 8.1375241583
+    },
+    {
+        "base_items": "142",
+        "add_items": "182",
+        "support": 0.0192,
+        "confidence": 0.4247787611,
+        "lift": 8.1375241583
+    },
+    {
+        "base_items": "1, 107",
+        "add_items": "6",
+        "support": 0.0192,
+        "confidence": 0.7741935484,
+        "lift": 3.9021852237
+    },
+    {
+        "base_items": "1, 6",
+        "add_items": "107",
+        "support": 0.0192,
+        "confidence": 0.347826087,
+        "lift": 3.0036795074
+    },
+    {
+        "base_items": "6, 107",
+        "add_items": "1",
+        "support": 0.0192,
+        "confidence": 0.3047619048,
+        "lift": 2.442002442
+    },
+    {
+        "base_items": "102",
+        "add_items": "50",
+        "support": 0.0188,
+        "confidence": 0.3494423792,
+        "lift": 2.2342863119
+    },
+    {
+        "base_items": "4",
+        "add_items": "1",
+        "support": 0.0186,
+        "confidence": 0.3431734317,
+        "lift": 2.7497871133
+    },
+    {
+        "base_items": "8",
+        "add_items": "27",
+        "support": 0.0184,
+        "confidence": 0.2577030812,
+        "lift": 2.4220214402
+    },
+    {
+        "base_items": "106",
+        "add_items": "102",
+        "support": 0.018,
+        "confidence": 0.5357142857,
+        "lift": 9.9575146044
+    },
+    {
+        "base_items": "102",
+        "add_items": "106",
+        "support": 0.018,
+        "confidence": 0.3345724907,
+        "lift": 9.9575146044
+    },
+    {
+        "base_items": "6, 117",
+        "add_items": "107",
+        "support": 0.018,
+        "confidence": 0.6428571429,
+        "lift": 5.5514433753
+    },
+    {
+        "base_items": "6, 107",
+        "add_items": "117",
+        "support": 0.018,
+        "confidence": 0.2857142857,
+        "lift": 4.3159257661
+    },
+    {
+        "base_items": "117",
+        "add_items": "6, 107",
+        "support": 0.018,
+        "confidence": 0.2719033233,
+        "lift": 4.3159257661
+    },
+    {
+        "base_items": "107, 117",
+        "add_items": "6",
+        "support": 0.018,
+        "confidence": 0.7438016529,
+        "lift": 3.7490002666
+    },
+    {
+        "base_items": "50, 107",
+        "add_items": "6",
+        "support": 0.018,
+        "confidence": 0.6206896552,
+        "lift": 3.1284760845
+    },
+    {
+        "base_items": "6, 107",
+        "add_items": "50",
+        "support": 0.018,
+        "confidence": 0.2857142857,
+        "lift": 1.8268176836
+    },
+    {
+        "base_items": "6, 50",
+        "add_items": "107",
+        "support": 0.018,
+        "confidence": 0.2083333333,
+        "lift": 1.7990788716
+    },
+    {
+        "base_items": "123",
+        "add_items": "50",
+        "support": 0.018,
+        "confidence": 0.2623906706,
+        "lift": 1.6776897094
+    },
+    {
+        "base_items": "168, 182",
+        "add_items": "142",
+        "support": 0.0178,
+        "confidence": 0.5329341317,
+        "lift": 11.7905781358
+    },
+    {
+        "base_items": "142",
+        "add_items": "168, 182",
+        "support": 0.0178,
+        "confidence": 0.3938053097,
+        "lift": 11.7905781358
+    },
+    {
+        "base_items": "142, 168",
+        "add_items": "182",
+        "support": 0.0178,
+        "confidence": 0.5894039735,
+        "lift": 11.2912638603
+    },
+    {
+        "base_items": "182",
+        "add_items": "142, 168",
+        "support": 0.0178,
+        "confidence": 0.3409961686,
+        "lift": 11.2912638603
+    },
+    {
+        "base_items": "142, 182",
+        "add_items": "168",
+        "support": 0.0178,
+        "confidence": 0.9270833333,
+        "lift": 10.984399684
+    },
+    {
+        "base_items": "168",
+        "add_items": "142, 182",
+        "support": 0.0178,
+        "confidence": 0.2109004739,
+        "lift": 10.984399684
+    },
+    {
+        "base_items": "49",
+        "add_items": "50",
+        "support": 0.0178,
+        "confidence": 0.4238095238,
+        "lift": 2.709779564
+    },
+    {
+        "base_items": "15",
+        "add_items": "14",
+        "support": 0.0174,
+        "confidence": 0.54375,
+        "lift": 14.0141752577
+    },
+    {
+        "base_items": "14",
+        "add_items": "15",
+        "support": 0.0174,
+        "confidence": 0.4484536082,
+        "lift": 14.0141752577
+    },
+    {
+        "base_items": "182",
+        "add_items": "141",
+        "support": 0.0174,
+        "confidence": 0.3333333333,
+        "lift": 6.4102564103
+    },
+    {
+        "base_items": "141",
+        "add_items": "182",
+        "support": 0.0174,
+        "confidence": 0.3346153846,
+        "lift": 6.4102564103
+    },
+    {
+        "base_items": "6, 168",
+        "add_items": "50",
+        "support": 0.0174,
+        "confidence": 0.7016129032,
+        "lift": 4.4860160053
+    },
+    {
+        "base_items": "50, 168",
+        "add_items": "6",
+        "support": 0.0174,
+        "confidence": 0.8130841121,
+        "lift": 4.0982062104
+    },
+    {
+        "base_items": "6, 50",
+        "add_items": "168",
+        "support": 0.0174,
+        "confidence": 0.2013888889,
+        "lift": 2.3861242759
+    },
+    {
+        "base_items": "168",
+        "add_items": "6, 50",
+        "support": 0.0174,
+        "confidence": 0.2061611374,
+        "lift": 2.3861242759
+    },
+    {
+        "base_items": "141, 168",
+        "add_items": "142",
+        "support": 0.0172,
+        "confidence": 0.6417910448,
+        "lift": 14.1989169198
+    },
+    {
+        "base_items": "142",
+        "add_items": "141, 168",
+        "support": 0.0172,
+        "confidence": 0.3805309735,
+        "lift": 14.1989169198
+    },
+    {
+        "base_items": "142, 168",
+        "add_items": "141",
+        "support": 0.0172,
+        "confidence": 0.5695364238,
+        "lift": 10.9526235354
+    },
+    {
+        "base_items": "141",
+        "add_items": "142, 168",
+        "support": 0.0172,
+        "confidence": 0.3307692308,
+        "lift": 10.9526235354
+    },
+    {
+        "base_items": "14",
+        "add_items": "13",
+        "support": 0.0172,
+        "confidence": 0.4432989691,
+        "lift": 9.4722001938
+    },
+    {
+        "base_items": "13",
+        "add_items": "14",
+        "support": 0.0172,
+        "confidence": 0.3675213675,
+        "lift": 9.4722001938
+    },
+    {
+        "base_items": "141, 142",
+        "add_items": "168",
+        "support": 0.0172,
+        "confidence": 0.6564885496,
+        "lift": 7.7783003509
+    },
+    {
+        "base_items": "168",
+        "add_items": "141, 142",
+        "support": 0.0172,
+        "confidence": 0.2037914692,
+        "lift": 7.7783003509
+    },
+    {
+        "base_items": "107, 117",
+        "add_items": "27",
+        "support": 0.017,
+        "confidence": 0.7024793388,
+        "lift": 6.6022494252
+    },
+    {
+        "base_items": "27, 117",
+        "add_items": "107",
+        "support": 0.017,
+        "confidence": 0.7522123894,
+        "lift": 6.4957892002
+    },
+    {
+        "base_items": "27, 107",
+        "add_items": "117",
+        "support": 0.017,
+        "confidence": 0.3917050691,
+        "lift": 5.9169950019
+    },
+    {
+        "base_items": "117",
+        "add_items": "27, 107",
+        "support": 0.017,
+        "confidence": 0.2567975831,
+        "lift": 5.9169950019
+    },
+    {
+        "base_items": "5",
+        "add_items": "3",
+        "support": 0.0168,
+        "confidence": 0.35,
+        "lift": 4.691689008
+    },
+    {
+        "base_items": "3",
+        "add_items": "5",
+        "support": 0.0168,
+        "confidence": 0.2252010724,
+        "lift": 4.691689008
+    },
+    {
+        "base_items": "17",
+        "add_items": "10",
+        "support": 0.0168,
+        "confidence": 0.2781456954,
+        "lift": 4.240025844
+    },
+    {
+        "base_items": "10",
+        "add_items": "17",
+        "support": 0.0168,
+        "confidence": 0.256097561,
+        "lift": 4.240025844
+    },
+    {
+        "base_items": "74",
+        "add_items": "96",
+        "support": 0.0168,
+        "confidence": 0.3442622951,
+        "lift": 3.6391363116
+    },
+    {
+        "base_items": "40",
+        "add_items": "6",
+        "support": 0.0168,
+        "confidence": 0.336,
+        "lift": 1.6935483871
+    },
+    {
+        "base_items": "40",
+        "add_items": "50",
+        "support": 0.0162,
+        "confidence": 0.324,
+        "lift": 2.0716112532
+    },
+    {
+        "base_items": "6, 117",
+        "add_items": "27",
+        "support": 0.016,
+        "confidence": 0.5714285714,
+        "lift": 5.3705692803
+    },
+    {
+        "base_items": "6, 27",
+        "add_items": "117",
+        "support": 0.016,
+        "confidence": 0.2846975089,
+        "lift": 4.3005665996
+    },
+    {
+        "base_items": "117",
+        "add_items": "6, 27",
+        "support": 0.016,
+        "confidence": 0.2416918429,
+        "lift": 4.3005665996
+    },
+    {
+        "base_items": "6, 148",
+        "add_items": "50",
+        "support": 0.016,
+        "confidence": 0.5797101449,
+        "lift": 3.7065866044
+    },
+    {
+        "base_items": "27, 117",
+        "add_items": "6",
+        "support": 0.016,
+        "confidence": 0.7079646018,
+        "lift": 3.5683699686
+    },
+    {
+        "base_items": "50, 148",
+        "add_items": "6",
+        "support": 0.016,
+        "confidence": 0.5882352941,
+        "lift": 2.9648956357
+    },
+    {
+        "base_items": "92",
+        "add_items": "50",
+        "support": 0.016,
+        "confidence": 0.3773584906,
+        "lift": 2.4127780727
+    },
+    {
+        "base_items": "148",
+        "add_items": "6, 50",
+        "support": 0.016,
+        "confidence": 0.203562341,
+        "lift": 2.356045613
+    },
+    {
+        "base_items": "1, 5",
+        "add_items": "3",
+        "support": 0.0158,
+        "confidence": 0.7247706422,
+        "lift": 9.7154241582
+    },
+    {
+        "base_items": "3",
+        "add_items": "1, 5",
+        "support": 0.0158,
+        "confidence": 0.2117962466,
+        "lift": 9.7154241582
+    },
+    {
+        "base_items": "3, 5",
+        "add_items": "1",
+        "support": 0.0158,
+        "confidence": 0.9404761905,
+        "lift": 7.5358669109
+    },
+    {
+        "base_items": "1, 3",
+        "add_items": "5",
+        "support": 0.0158,
+        "confidence": 0.28113879,
+        "lift": 5.8570581257
+    },
+    {
+        "base_items": "5",
+        "add_items": "1, 3",
+        "support": 0.0158,
+        "confidence": 0.3291666667,
+        "lift": 5.8570581257
+    },
+    {
+        "base_items": "123",
+        "add_items": "96",
+        "support": 0.0156,
+        "confidence": 0.2274052478,
+        "lift": 2.4038609705
+    },
+    {
+        "base_items": "3",
+        "add_items": "6",
+        "support": 0.0156,
+        "confidence": 0.2091152815,
+        "lift": 1.0540084753
+    },
+    {
+        "base_items": "2, 4",
+        "add_items": "5",
+        "support": 0.0152,
+        "confidence": 0.7102803738,
+        "lift": 14.7975077882
+    },
+    {
+        "base_items": "5",
+        "add_items": "2, 4",
+        "support": 0.0152,
+        "confidence": 0.3166666667,
+        "lift": 14.7975077882
+    },
+    {
+        "base_items": "2, 5",
+        "add_items": "4",
+        "support": 0.0152,
+        "confidence": 0.7835051546,
+        "lift": 14.4558146612
+    },
+    {
+        "base_items": "4",
+        "add_items": "2, 5",
+        "support": 0.0152,
+        "confidence": 0.2804428044,
+        "lift": 14.4558146612
+    },
+    {
+        "base_items": "4, 5",
+        "add_items": "2",
+        "support": 0.0152,
+        "confidence": 0.5170068027,
+        "lift": 7.3858114674
+    },
+    {
+        "base_items": "2",
+        "add_items": "4, 5",
+        "support": 0.0152,
+        "confidence": 0.2171428571,
+        "lift": 7.3858114674
+    },
+    {
+        "base_items": "123",
+        "add_items": "26",
+        "support": 0.0152,
+        "confidence": 0.221574344,
+        "lift": 7.2409916347
+    },
+    {
+        "base_items": "26",
+        "add_items": "123",
+        "support": 0.0152,
+        "confidence": 0.4967320261,
+        "lift": 7.2409916347
+    },
+    {
+        "base_items": "2, 6",
+        "add_items": "1",
+        "support": 0.0152,
+        "confidence": 0.7378640777,
+        "lift": 5.9123724172
+    },
+    {
+        "base_items": "1, 6",
+        "add_items": "2",
+        "support": 0.0152,
+        "confidence": 0.2753623188,
+        "lift": 3.933747412
+    },
+    {
+        "base_items": "2",
+        "add_items": "1, 6",
+        "support": 0.0152,
+        "confidence": 0.2171428571,
+        "lift": 3.933747412
+    },
+    {
+        "base_items": "4",
+        "add_items": "3",
+        "support": 0.0152,
+        "confidence": 0.2804428044,
+        "lift": 3.7592869226
+    },
+    {
+        "base_items": "3",
+        "add_items": "4",
+        "support": 0.0152,
+        "confidence": 0.2037533512,
+        "lift": 3.7592869226
+    },
+    {
+        "base_items": "8",
+        "add_items": "96",
+        "support": 0.0152,
+        "confidence": 0.2128851541,
+        "lift": 2.2503716074
+    },
+    {
+        "base_items": "1, 2",
+        "add_items": "6",
+        "support": 0.0152,
+        "confidence": 0.3003952569,
+        "lift": 1.5140889966
+    },
+    {
+        "base_items": "102",
+        "add_items": "6",
+        "support": 0.0152,
+        "confidence": 0.282527881,
+        "lift": 1.4240316585
+    },
+    {
+        "base_items": "40",
+        "add_items": "17",
+        "support": 0.0148,
+        "confidence": 0.296,
+        "lift": 4.9006622517
+    },
+    {
+        "base_items": "17",
+        "add_items": "40",
+        "support": 0.0148,
+        "confidence": 0.2450331126,
+        "lift": 4.9006622517
+    },
+    {
+        "base_items": "2",
+        "add_items": "50",
+        "support": 0.0148,
+        "confidence": 0.2114285714,
+        "lift": 1.3518450859
+    },
+    {
+        "base_items": "1, 5",
+        "add_items": "2",
+        "support": 0.0146,
+        "confidence": 0.6697247706,
+        "lift": 9.5674967235
+    },
+    {
+        "base_items": "2",
+        "add_items": "1, 5",
+        "support": 0.0146,
+        "confidence": 0.2085714286,
+        "lift": 9.5674967235
+    },
+    {
+        "base_items": "2, 5",
+        "add_items": "1",
+        "support": 0.0146,
+        "confidence": 0.7525773196,
+        "lift": 6.0302669839
+    },
+    {
+        "base_items": "1, 2",
+        "add_items": "5",
+        "support": 0.0146,
+        "confidence": 0.2885375494,
+        "lift": 6.011198946
+    },
+    {
+        "base_items": "5",
+        "add_items": "1, 2",
+        "support": 0.0146,
+        "confidence": 0.3041666667,
+        "lift": 6.011198946
+    },
+    {
+        "base_items": "6, 10",
+        "add_items": "50",
+        "support": 0.0146,
+        "confidence": 0.5214285714,
+        "lift": 3.3339422726
+    },
+    {
+        "base_items": "10, 50",
+        "add_items": "6",
+        "support": 0.0146,
+        "confidence": 0.514084507,
+        "lift": 2.5911517492
+    },
+    {
+        "base_items": "10",
+        "add_items": "6, 50",
+        "support": 0.0146,
+        "confidence": 0.2225609756,
+        "lift": 2.5759372177
+    },
+    {
+        "base_items": "9",
+        "add_items": "7",
+        "support": 0.0144,
+        "confidence": 0.4931506849,
+        "lift": 10.7206670637
+    },
+    {
+        "base_items": "7",
+        "add_items": "9",
+        "support": 0.0144,
+        "confidence": 0.3130434783,
+        "lift": 10.7206670637
+    },
+    {
+        "base_items": "73",
+        "add_items": "50",
+        "support": 0.0144,
+        "confidence": 0.3870967742,
+        "lift": 2.4750433133
+    },
+    {
+        "base_items": "119",
+        "add_items": "118",
+        "support": 0.0142,
+        "confidence": 0.3034188034,
+        "lift": 6.0927470566
+    },
+    {
+        "base_items": "118",
+        "add_items": "119",
+        "support": 0.0142,
+        "confidence": 0.2851405622,
+        "lift": 6.0927470566
+    },
+    {
+        "base_items": "1, 27",
+        "add_items": "6",
+        "support": 0.0142,
+        "confidence": 0.7473684211,
+        "lift": 3.7669779287
+    },
+    {
+        "base_items": "1, 6",
+        "add_items": "27",
+        "support": 0.0142,
+        "confidence": 0.2572463768,
+        "lift": 2.4177291054
+    },
+    {
+        "base_items": "6, 27",
+        "add_items": "1",
+        "support": 0.0142,
+        "confidence": 0.2526690391,
+        "lift": 2.0245916598
+    },
+    {
+        "base_items": "92",
+        "add_items": "89",
+        "support": 0.014,
+        "confidence": 0.3301886792,
+        "lift": 13.9910457307
+    },
+    {
+        "base_items": "89",
+        "add_items": "92",
+        "support": 0.014,
+        "confidence": 0.593220339,
+        "lift": 13.9910457307
+    },
+    {
+        "base_items": "141",
+        "add_items": "123",
+        "support": 0.014,
+        "confidence": 0.2692307692,
+        "lift": 3.9246467818
+    },
+    {
+        "base_items": "123",
+        "add_items": "141",
+        "support": 0.014,
+        "confidence": 0.2040816327,
+        "lift": 3.9246467818
+    },
+    {
+        "base_items": "49",
+        "add_items": "27",
+        "support": 0.014,
+        "confidence": 0.3333333333,
+        "lift": 3.1328320802
+    },
+    {
+        "base_items": "121",
+        "add_items": "119",
+        "support": 0.0138,
+        "confidence": 0.5702479339,
+        "lift": 12.1847849121
+    },
+    {
+        "base_items": "119",
+        "add_items": "121",
+        "support": 0.0138,
+        "confidence": 0.2948717949,
+        "lift": 12.1847849121
+    },
+    {
+        "base_items": "1, 96",
+        "add_items": "50",
+        "support": 0.0138,
+        "confidence": 0.7931034483,
+        "lift": 5.0709939148
+    },
+    {
+        "base_items": "6, 123",
+        "add_items": "96",
+        "support": 0.0138,
+        "confidence": 0.4569536424,
+        "lift": 4.8303767694
+    },
+    {
+        "base_items": "6, 96",
+        "add_items": "123",
+        "support": 0.0138,
+        "confidence": 0.3150684932,
+        "lift": 4.5928351771
+    },
+    {
+        "base_items": "123",
+        "add_items": "6, 96",
+        "support": 0.0138,
+        "confidence": 0.2011661808,
+        "lift": 4.5928351771
+    },
+    {
+        "base_items": "96, 123",
+        "add_items": "6",
+        "support": 0.0138,
+        "confidence": 0.8846153846,
+        "lift": 4.4587468983
+    },
+    {
+        "base_items": "1, 50",
+        "add_items": "96",
+        "support": 0.0138,
+        "confidence": 0.3689839572,
+        "lift": 3.9004646641
+    },
+    {
+        "base_items": "50, 96",
+        "add_items": "1",
+        "support": 0.0138,
+        "confidence": 0.3150684932,
+        "lift": 2.5245872849
+    },
+    {
+        "base_items": "17",
+        "add_items": "96",
+        "support": 0.0138,
+        "confidence": 0.2284768212,
+        "lift": 2.4151883847
+    },
+    {
+        "base_items": "26",
+        "add_items": "9",
+        "support": 0.0136,
+        "confidence": 0.4444444444,
+        "lift": 15.2207001522
+    },
+    {
+        "base_items": "9",
+        "add_items": "26",
+        "support": 0.0136,
+        "confidence": 0.4657534247,
+        "lift": 15.2207001522
+    },
+    {
+        "base_items": "110",
+        "add_items": "108",
+        "support": 0.0136,
+        "confidence": 0.4223602484,
+        "lift": 11.797772303
+    },
+    {
+        "base_items": "108",
+        "add_items": "110",
+        "support": 0.0136,
+        "confidence": 0.3798882682,
+        "lift": 11.797772303
+    },
+    {
+        "base_items": "6, 40",
+        "add_items": "27",
+        "support": 0.0136,
+        "confidence": 0.8095238095,
+        "lift": 7.6083064805
+    },
+    {
+        "base_items": "6, 27",
+        "add_items": "40",
+        "support": 0.0136,
+        "confidence": 0.2419928826,
+        "lift": 4.8398576512
+    },
+    {
+        "base_items": "40",
+        "add_items": "6, 27",
+        "support": 0.0136,
+        "confidence": 0.272,
+        "lift": 4.8398576512
+    },
+    {
+        "base_items": "108",
+        "add_items": "107",
+        "support": 0.0136,
+        "confidence": 0.3798882682,
+        "lift": 3.2805549927
+    },
+    {
+        "base_items": "27, 40",
+        "add_items": "6",
+        "support": 0.0136,
+        "confidence": 0.4197530864,
+        "lift": 2.1156909598
+    },
+    {
+        "base_items": "3, 5",
+        "add_items": "2",
+        "support": 0.0134,
+        "confidence": 0.7976190476,
+        "lift": 11.3945578231
+    },
+    {
+        "base_items": "2, 5",
+        "add_items": "3",
+        "support": 0.0134,
+        "confidence": 0.6907216495,
+        "lift": 9.2590033443
+    },
+    {
+        "base_items": "2, 3",
+        "add_items": "5",
+        "support": 0.0134,
+        "confidence": 0.3073394495,
+        "lift": 6.4029051988
+    },
+    {
+        "base_items": "5",
+        "add_items": "2, 3",
+        "support": 0.0134,
+        "confidence": 0.2791666667,
+        "lift": 6.4029051988
+    },
+    {
+        "base_items": "6, 17",
+        "add_items": "50",
+        "support": 0.0134,
+        "confidence": 0.5037593985,
+        "lift": 3.2209680211
+    },
+    {
+        "base_items": "17, 50",
+        "add_items": "6",
+        "support": 0.0134,
+        "confidence": 0.5630252101,
+        "lift": 2.8378286799
+    },
+    {
+        "base_items": "17",
+        "add_items": "6, 50",
+        "support": 0.0134,
+        "confidence": 0.2218543046,
+        "lift": 2.5677581555
+    },
+    {
+        "base_items": "27, 107",
+        "add_items": "6, 117",
+        "support": 0.0132,
+        "confidence": 0.3041474654,
+        "lift": 10.8624094799
+    },
+    {
+        "base_items": "6, 117",
+        "add_items": "27, 107",
+        "support": 0.0132,
+        "confidence": 0.4714285714,
+        "lift": 10.8624094799
+    },
+    {
+        "base_items": "107, 117",
+        "add_items": "6, 27",
+        "support": 0.0132,
+        "confidence": 0.5454545455,
+        "lift": 9.7055968942
+    },
+    {
+        "base_items": "6, 27",
+        "add_items": "107, 117",
+        "support": 0.0132,
+        "confidence": 0.2348754448,
+        "lift": 9.7055968942
+    },
+    {
+        "base_items": "27, 117",
+        "add_items": "6, 107",
+        "support": 0.0132,
+        "confidence": 0.5840707965,
+        "lift": 9.2709650232
+    },
+    {
+        "base_items": "6, 107",
+        "add_items": "27, 117",
+        "support": 0.0132,
+        "confidence": 0.2095238095,
+        "lift": 9.2709650232
+    },
+    {
+        "base_items": "6, 27, 117",
+        "add_items": "107",
+        "support": 0.0132,
+        "confidence": 0.825,
+        "lift": 7.1243523316
+    },
+    {
+        "base_items": "6, 27, 107",
+        "add_items": "117",
+        "support": 0.0132,
+        "confidence": 0.4714285714,
+        "lift": 7.121277514
+    },
+    {
+        "base_items": "6, 107, 117",
+        "add_items": "27",
+        "support": 0.0132,
+        "confidence": 0.7333333333,
+        "lift": 6.8922305764
+    },
+    {
+        "base_items": "27, 107, 117",
+        "add_items": "6",
+        "support": 0.0132,
+        "confidence": 0.7764705882,
+        "lift": 3.9136622391
+    },
+    {
+        "base_items": "1, 96",
+        "add_items": "6",
+        "support": 0.0132,
+        "confidence": 0.7586206897,
+        "lift": 3.8236929922
+    },
+    {
+        "base_items": "92",
+        "add_items": "96",
+        "support": 0.0132,
+        "confidence": 0.3113207547,
+        "lift": 3.2909170689
+    },
+    {
+        "base_items": "1, 6",
+        "add_items": "96",
+        "support": 0.0132,
+        "confidence": 0.2391304348,
+        "lift": 2.5278058645
+    },
+    {
+        "base_items": "6, 96",
+        "add_items": "1",
+        "support": 0.0132,
+        "confidence": 0.301369863,
+        "lift": 2.4148226203
+    },
+    {
+        "base_items": "74",
+        "add_items": "6",
+        "support": 0.0132,
+        "confidence": 0.2704918033,
+        "lift": 1.3633659439
+    },
+    {
+        "base_items": "3, 5",
+        "add_items": "1, 2",
+        "support": 0.013,
+        "confidence": 0.7738095238,
+        "lift": 15.2926783362
+    },
+    {
+        "base_items": "1, 2",
+        "add_items": "3, 5",
+        "support": 0.013,
+        "confidence": 0.256916996,
+        "lift": 15.2926783362
+    },
+    {
+        "base_items": "1, 4",
+        "add_items": "5",
+        "support": 0.013,
+        "confidence": 0.6989247312,
+        "lift": 14.5609318996
+    },
+    {
+        "base_items": "5",
+        "add_items": "1, 4",
+        "support": 0.013,
+        "confidence": 0.2708333333,
+        "lift": 14.5609318996
+    },
+    {
+        "base_items": "2, 3",
+        "add_items": "1, 5",
+        "support": 0.013,
+        "confidence": 0.2981651376,
+        "lift": 13.6772998906
+    },
+    {
+        "base_items": "1, 5",
+        "add_items": "2, 3",
+        "support": 0.013,
+        "confidence": 0.5963302752,
+        "lift": 13.6772998906
+    },
+    {
+        "base_items": "1, 2, 5",
+        "add_items": "3",
+        "support": 0.013,
+        "confidence": 0.8904109589,
+        "lift": 11.9358037387
+    },
+    {
+        "base_items": "2, 5",
+        "add_items": "1, 3",
+        "support": 0.013,
+        "confidence": 0.6701030928,
+        "lift": 11.9235425762
+    },
+    {
+        "base_items": "1, 3",
+        "add_items": "2, 5",
+        "support": 0.013,
+        "confidence": 0.231316726,
+        "lift": 11.9235425762
+    },
+    {
+        "base_items": "1, 3, 5",
+        "add_items": "2",
+        "support": 0.013,
+        "confidence": 0.8227848101,
+        "lift": 11.7540687161
+    },
+    {
+        "base_items": "1, 5",
+        "add_items": "4",
+        "support": 0.013,
+        "confidence": 0.5963302752,
+        "lift": 11.002403602
+    },
+    {
+        "base_items": "4",
+        "add_items": "1, 5",
+        "support": 0.013,
+        "confidence": 0.2398523985,
+        "lift": 11.002403602
+    },
+    {
+        "base_items": "1, 4",
+        "add_items": "3",
+        "support": 0.013,
+        "confidence": 0.6989247312,
+        "lift": 9.368964225
+    },
+    {
+        "base_items": "2, 3, 5",
+        "add_items": "1",
+        "support": 0.013,
+        "confidence": 0.9701492537,
+        "lift": 7.7736318408
+    },
+    {
+        "base_items": "50, 102",
+        "add_items": "96",
+        "support": 0.013,
+        "confidence": 0.6914893617,
+        "lift": 7.309612703
+    },
+    {
+        "base_items": "1, 2, 3",
+        "add_items": "5",
+        "support": 0.013,
+        "confidence": 0.3385416667,
+        "lift": 7.0529513889
+    },
+    {
+        "base_items": "5",
+        "add_items": "1, 2, 3",
+        "support": 0.013,
+        "confidence": 0.2708333333,
+        "lift": 7.0529513889
+    },
+    {
+        "base_items": "3, 4",
+        "add_items": "1",
+        "support": 0.013,
+        "confidence": 0.8552631579,
+        "lift": 6.8530701754
+    },
+    {
+        "base_items": "6, 168",
+        "add_items": "96",
+        "support": 0.013,
+        "confidence": 0.5241935484,
+        "lift": 5.5411580168
+    },
+    {
+        "base_items": "50, 96",
+        "add_items": "102",
+        "support": 0.013,
+        "confidence": 0.296803653,
+        "lift": 5.5167965236
+    },
+    {
+        "base_items": "102",
+        "add_items": "50, 96",
+        "support": 0.013,
+        "confidence": 0.2416356877,
+        "lift": 5.5167965236
+    },
+    {
+        "base_items": "96, 168",
+        "add_items": "6",
+        "support": 0.013,
+        "confidence": 0.9154929577,
+        "lift": 4.6143798274
+    },
+    {
+        "base_items": "1, 3",
+        "add_items": "4",
+        "support": 0.013,
+        "confidence": 0.231316726,
+        "lift": 4.2678362727
+    },
+    {
+        "base_items": "4",
+        "add_items": "1, 3",
+        "support": 0.013,
+        "confidence": 0.2398523985,
+        "lift": 4.2678362727
+    },
+    {
+        "base_items": "4, 5",
+        "add_items": "1",
+        "support": 0.013,
+        "confidence": 0.4421768707,
+        "lift": 3.5430839002
+    },
+    {
+        "base_items": "6, 96",
+        "add_items": "168",
+        "support": 0.013,
+        "confidence": 0.296803653,
+        "lift": 3.5166309593
+    },
+    {
+        "base_items": "106",
+        "add_items": "107",
+        "support": 0.013,
+        "confidence": 0.3869047619,
+        "lift": 3.3411464759
+    },
+    {
+        "base_items": "96, 102",
+        "add_items": "50",
+        "support": 0.013,
+        "confidence": 0.4850746269,
+        "lift": 3.1015001718
+    },
+    {
+        "base_items": "92",
+        "add_items": "6",
+        "support": 0.0128,
+        "confidence": 0.3018867925,
+        "lift": 1.5216068168
+    },
+    {
+        "base_items": "3, 4",
+        "add_items": "5",
+        "support": 0.0126,
+        "confidence": 0.8289473684,
+        "lift": 17.2697368421
+    },
+    {
+        "base_items": "5",
+        "add_items": "3, 4",
+        "support": 0.0126,
+        "confidence": 0.2625,
+        "lift": 17.2697368421
+    },
+    {
+        "base_items": "3, 5",
+        "add_items": "4",
+        "support": 0.0126,
+        "confidence": 0.75,
+        "lift": 13.8376383764
+    },
+    {
+        "base_items": "4",
+        "add_items": "3, 5",
+        "support": 0.0126,
+        "confidence": 0.2324723247,
+        "lift": 13.8376383764
+    },
+    {
+        "base_items": "1, 4",
+        "add_items": "2",
+        "support": 0.0126,
+        "confidence": 0.6774193548,
+        "lift": 9.6774193548
+    },
+    {
+        "base_items": "4, 5",
+        "add_items": "3",
+        "support": 0.0126,
+        "confidence": 0.4285714286,
+        "lift": 5.744925316
+    },
+    {
+        "base_items": "1, 168",
+        "add_items": "6",
+        "support": 0.0126,
+        "confidence": 0.9545454545,
+        "lift": 4.8112170088
+    },
+    {
+        "base_items": "2, 4",
+        "add_items": "1",
+        "support": 0.0126,
+        "confidence": 0.5887850467,
+        "lift": 4.7178289001
+    },
+    {
+        "base_items": "1, 2",
+        "add_items": "4",
+        "support": 0.0126,
+        "confidence": 0.2490118577,
+        "lift": 4.5943147179
+    },
+    {
+        "base_items": "4",
+        "add_items": "1, 2",
+        "support": 0.0126,
+        "confidence": 0.2324723247,
+        "lift": 4.5943147179
+    },
+    {
+        "base_items": "6, 168",
+        "add_items": "1",
+        "support": 0.0126,
+        "confidence": 0.5080645161,
+        "lift": 4.0710297767
+    },
+    {
+        "base_items": "1, 6",
+        "add_items": "168",
+        "support": 0.0126,
+        "confidence": 0.2282608696,
+        "lift": 2.7045126726
+    },
+    {
+        "base_items": "116",
+        "add_items": "115",
+        "support": 0.0124,
+        "confidence": 0.4161073826,
+        "lift": 10.2489503091
+    },
+    {
+        "base_items": "115",
+        "add_items": "116",
+        "support": 0.0124,
+        "confidence": 0.3054187192,
+        "lift": 10.2489503091
+    },
+    {
+        "base_items": "141, 168",
+        "add_items": "182",
+        "support": 0.0124,
+        "confidence": 0.4626865672,
+        "lift": 8.8637273403
+    },
+    {
+        "base_items": "182",
+        "add_items": "141, 168",
+        "support": 0.0124,
+        "confidence": 0.2375478927,
+        "lift": 8.8637273403
+    },
+    {
+        "base_items": "141, 182",
+        "add_items": "168",
+        "support": 0.0124,
+        "confidence": 0.7126436782,
+        "lift": 8.4436454758
+    },
+    {
+        "base_items": "14",
+        "add_items": "12",
+        "support": 0.0124,
+        "confidence": 0.3195876289,
+        "lift": 8.3225945017
+    },
+    {
+        "base_items": "12",
+        "add_items": "14",
+        "support": 0.0124,
+        "confidence": 0.3229166667,
+        "lift": 8.3225945017
+    },
+    {
+        "base_items": "168, 182",
+        "add_items": "141",
+        "support": 0.0124,
+        "confidence": 0.371257485,
+        "lift": 7.1395670198
+    },
+    {
+        "base_items": "141",
+        "add_items": "168, 182",
+        "support": 0.0124,
+        "confidence": 0.2384615385,
+        "lift": 7.1395670198
+    },
+    {
+        "base_items": "6, 102",
+        "add_items": "50",
+        "support": 0.0124,
+        "confidence": 0.8157894737,
+        "lift": 5.2160452282
+    },
+    {
+        "base_items": "50, 102",
+        "add_items": "6",
+        "support": 0.0124,
+        "confidence": 0.6595744681,
+        "lift": 3.3244680851
+    },
+    {
+        "base_items": "102",
+        "add_items": "6, 50",
+        "support": 0.0124,
+        "confidence": 0.2304832714,
+        "lift": 2.6676304557
+    },
+    {
+        "base_items": "125",
+        "add_items": "124",
+        "support": 0.0122,
+        "confidence": 0.4420289855,
+        "lift": 9.7794023342
+    },
+    {
+        "base_items": "124",
+        "add_items": "125",
+        "support": 0.0122,
+        "confidence": 0.2699115044,
+        "lift": 9.7794023342
+    },
+    {
+        "base_items": "124",
+        "add_items": "119",
+        "support": 0.0122,
+        "confidence": 0.2699115044,
+        "lift": 5.7673398381
+    },
+    {
+        "base_items": "119",
+        "add_items": "124",
+        "support": 0.0122,
+        "confidence": 0.2606837607,
+        "lift": 5.7673398381
+    },
+    {
+        "base_items": "50, 123",
+        "add_items": "6",
+        "support": 0.0122,
+        "confidence": 0.6777777778,
+        "lift": 3.416218638
+    },
+    {
+        "base_items": "6, 123",
+        "add_items": "50",
+        "support": 0.0122,
+        "confidence": 0.4039735099,
+        "lift": 2.5829508308
+    },
+    {
+        "base_items": "3, 5",
+        "add_items": "1, 4",
+        "support": 0.012,
+        "confidence": 0.7142857143,
+        "lift": 38.4024577573
+    },
+    {
+        "base_items": "1, 4",
+        "add_items": "3, 5",
+        "support": 0.012,
+        "confidence": 0.6451612903,
+        "lift": 38.4024577573
+    },
+    {
+        "base_items": "3, 4",
+        "add_items": "1, 5",
+        "support": 0.012,
+        "confidence": 0.7894736842,
+        "lift": 36.214389184
+    },
+    {
+        "base_items": "1, 5",
+        "add_items": "3, 4",
+        "support": 0.012,
+        "confidence": 0.5504587156,
+        "lift": 36.214389184
+    },
+    {
+        "base_items": "1, 3, 4",
+        "add_items": "5",
+        "support": 0.012,
+        "confidence": 0.9230769231,
+        "lift": 19.2307692308
+    },
+    {
+        "base_items": "5",
+        "add_items": "1, 3, 4",
+        "support": 0.012,
+        "confidence": 0.25,
+        "lift": 19.2307692308
+    },
+    {
+        "base_items": "1, 3, 5",
+        "add_items": "4",
+        "support": 0.012,
+        "confidence": 0.7594936709,
+        "lift": 14.0127983558
+    },
+    {
+        "base_items": "4",
+        "add_items": "1, 3, 5",
+        "support": 0.012,
+        "confidence": 0.221402214,
+        "lift": 14.0127983558
+    },
+    {
+        "base_items": "1, 4, 5",
+        "add_items": "3",
+        "support": 0.012,
+        "confidence": 0.9230769231,
+        "lift": 12.3736852959
+    },
+    {
+        "base_items": "17, 27",
+        "add_items": "40",
+        "support": 0.012,
+        "confidence": 0.5042016807,
+        "lift": 10.0840336134
+    },
+    {
+        "base_items": "40",
+        "add_items": "17, 27",
+        "support": 0.012,
+        "confidence": 0.24,
+        "lift": 10.0840336134
+    },
+    {
+        "base_items": "3, 4, 5",
+        "add_items": "1",
+        "support": 0.012,
+        "confidence": 0.9523809524,
+        "lift": 7.6312576313
+    },
+    {
+        "base_items": "17, 40",
+        "add_items": "27",
+        "support": 0.012,
+        "confidence": 0.8108108108,
+        "lift": 7.6204023572
+    },
+    {
+        "base_items": "4, 5",
+        "add_items": "1, 3",
+        "support": 0.012,
+        "confidence": 0.4081632653,
+        "lift": 7.2626915535
+    },
+    {
+        "base_items": "1, 3",
+        "add_items": "4, 5",
+        "support": 0.012,
+        "confidence": 0.2135231317,
+        "lift": 7.2626915535
+    },
+    {
+        "base_items": "27, 40",
+        "add_items": "17",
+        "support": 0.012,
+        "confidence": 0.3703703704,
+        "lift": 6.1319597743
+    },
+    {
+        "base_items": "6, 17",
+        "add_items": "27",
+        "support": 0.012,
+        "confidence": 0.4511278195,
+        "lift": 4.2399231161
+    },
+    {
+        "base_items": "50, 107",
+        "add_items": "27",
+        "support": 0.012,
+        "confidence": 0.4137931034,
+        "lift": 3.8890329271
+    },
+    {
+        "base_items": "6, 27",
+        "add_items": "17",
+        "support": 0.012,
+        "confidence": 0.2135231317,
+        "lift": 3.5351511866
+    },
+    {
+        "base_items": "27, 50",
+        "add_items": "107",
+        "support": 0.012,
+        "confidence": 0.3636363636,
+        "lift": 3.1402103941
+    },
+    {
+        "base_items": "17, 27",
+        "add_items": "6",
+        "support": 0.012,
+        "confidence": 0.5042016807,
+        "lift": 2.5413391163
+    },
+    {
+        "base_items": "27, 107",
+        "add_items": "50",
+        "support": 0.012,
+        "confidence": 0.2764976959,
+        "lift": 1.7678880809
+    },
+    {
+        "base_items": "12, 14",
+        "add_items": "13",
+        "support": 0.0118,
+        "confidence": 0.9516129032,
+        "lift": 20.3336090433
+    },
+    {
+        "base_items": "13",
+        "add_items": "12, 14",
+        "support": 0.0118,
+        "confidence": 0.2521367521,
+        "lift": 20.3336090433
+    },
+    {
+        "base_items": "13, 14",
+        "add_items": "12",
+        "support": 0.0118,
+        "confidence": 0.6860465116,
+        "lift": 17.8657945736
+    },
+    {
+        "base_items": "12",
+        "add_items": "13, 14",
+        "support": 0.0118,
+        "confidence": 0.3072916667,
+        "lift": 17.8657945736
+    },
+    {
+        "base_items": "12, 13",
+        "add_items": "14",
+        "support": 0.0118,
+        "confidence": 0.5462962963,
+        "lift": 14.0798014509
+    },
+    {
+        "base_items": "14",
+        "add_items": "12, 13",
+        "support": 0.0118,
+        "confidence": 0.3041237113,
+        "lift": 14.0798014509
+    },
+    {
+        "base_items": "12",
+        "add_items": "11",
+        "support": 0.0118,
+        "confidence": 0.3072916667,
+        "lift": 10.3118008949
+    },
+    {
+        "base_items": "11",
+        "add_items": "12",
+        "support": 0.0118,
+        "confidence": 0.3959731544,
+        "lift": 10.3118008949
+    },
+    {
+        "base_items": "49",
+        "add_items": "40",
+        "support": 0.0118,
+        "confidence": 0.280952381,
+        "lift": 5.619047619
+    },
+    {
+        "base_items": "40",
+        "add_items": "49",
+        "support": 0.0118,
+        "confidence": 0.236,
+        "lift": 5.619047619
+    },
+    {
+        "base_items": "6, 10",
+        "add_items": "27",
+        "support": 0.0118,
+        "confidence": 0.4214285714,
+        "lift": 3.9607948443
+    },
+    {
+        "base_items": "6, 27",
+        "add_items": "10",
+        "support": 0.0118,
+        "confidence": 0.2099644128,
+        "lift": 3.2006770246
+    },
+    {
+        "base_items": "10, 27",
+        "add_items": "6",
+        "support": 0.0118,
+        "confidence": 0.5841584158,
+        "lift": 2.944346854
+    },
+    {
+        "base_items": "118",
+        "add_items": "6",
+        "support": 0.0118,
+        "confidence": 0.2369477912,
+        "lift": 1.1942933022
+    },
+    {
+        "base_items": "3, 4",
+        "add_items": "2",
+        "support": 0.0116,
+        "confidence": 0.7631578947,
+        "lift": 10.9022556391
+    },
+    {
+        "base_items": "2, 4",
+        "add_items": "3",
+        "support": 0.0116,
+        "confidence": 0.5420560748,
+        "lift": 7.2661672221
+    },
+    {
+        "base_items": "50, 168",
+        "add_items": "96",
+        "support": 0.0116,
+        "confidence": 0.5420560748,
+        "lift": 5.7299796487
+    },
+    {
+        "base_items": "96, 168",
+        "add_items": "50",
+        "support": 0.0116,
+        "confidence": 0.8169014085,
+        "lift": 5.2231547855
+    },
+    {
+        "base_items": "2, 3",
+        "add_items": "4",
+        "support": 0.0116,
+        "confidence": 0.2660550459,
+        "lift": 4.908764684
+    },
+    {
+        "base_items": "4",
+        "add_items": "2, 3",
+        "support": 0.0116,
+        "confidence": 0.2140221402,
+        "lift": 4.908764684
+    },
+    {
+        "base_items": "2, 50",
+        "add_items": "6",
+        "support": 0.0116,
+        "confidence": 0.7837837838,
+        "lift": 3.9505231037
+    },
+    {
+        "base_items": "2, 6",
+        "add_items": "50",
+        "support": 0.0116,
+        "confidence": 0.5631067961,
+        "lift": 3.6004270851
+    },
+    {
+        "base_items": "50, 96",
+        "add_items": "168",
+        "support": 0.0116,
+        "confidence": 0.2648401826,
+        "lift": 3.137916856
+    },
+    {
+        "base_items": "27, 50",
+        "add_items": "10",
+        "support": 0.0114,
+        "confidence": 0.3454545455,
+        "lift": 5.266075388
+    },
+    {
+        "base_items": "10, 50",
+        "add_items": "27",
+        "support": 0.0114,
+        "confidence": 0.4014084507,
+        "lift": 3.7726358149
+    },
+    {
+        "base_items": "10, 27",
+        "add_items": "50",
+        "support": 0.0114,
+        "confidence": 0.5643564356,
+        "lift": 3.6084171077
+    },
+    {
+        "base_items": "8, 27",
+        "add_items": "6",
+        "support": 0.0114,
+        "confidence": 0.6195652174,
+        "lift": 3.1228085554
+    },
+    {
+        "base_items": "6, 27",
+        "add_items": "8",
+        "support": 0.0114,
+        "confidence": 0.2028469751,
+        "lift": 2.8409940489
+    },
+    {
+        "base_items": "6, 8",
+        "add_items": "27",
+        "support": 0.0114,
+        "confidence": 0.2766990291,
+        "lift": 2.600554785
+    },
+    {
+        "base_items": "9",
+        "add_items": "123",
+        "support": 0.0112,
+        "confidence": 0.3835616438,
+        "lift": 5.5912776069
+    },
+    {
+        "base_items": "1, 8",
+        "add_items": "50",
+        "support": 0.0112,
+        "confidence": 0.8484848485,
+        "lift": 5.4250949392
+    },
+    {
+        "base_items": "1, 50",
+        "add_items": "8",
+        "support": 0.0112,
+        "confidence": 0.2994652406,
+        "lift": 4.1941910454
+    },
+    {
+        "base_items": "8, 50",
+        "add_items": "1",
+        "support": 0.0112,
+        "confidence": 0.3566878981,
+        "lift": 2.8580761065
+    },
+    {
+        "base_items": "3, 4",
+        "add_items": "1, 2",
+        "support": 0.011,
+        "confidence": 0.7236842105,
+        "lift": 14.3020594966
+    },
+    {
+        "base_items": "1, 2",
+        "add_items": "3, 4",
+        "support": 0.011,
+        "confidence": 0.2173913043,
+        "lift": 14.3020594966
+    },
+    {
+        "base_items": "2, 3",
+        "add_items": "1, 4",
+        "support": 0.011,
+        "confidence": 0.252293578,
+        "lift": 13.5641708592
+    },
+    {
+        "base_items": "1, 4",
+        "add_items": "2, 3",
+        "support": 0.011,
+        "confidence": 0.5913978495,
+        "lift": 13.5641708592
+    },
+    {
+        "base_items": "1, 3, 4",
+        "add_items": "2",
+        "support": 0.011,
+        "confidence": 0.8461538462,
+        "lift": 12.0879120879
+    },
+    {
+        "base_items": "50, 168",
+        "add_items": "6, 96",
+        "support": 0.011,
+        "confidence": 0.5140186916,
+        "lift": 11.735586566
+    },
+    {
+        "base_items": "6, 96",
+        "add_items": "50, 168",
+        "support": 0.011,
+        "confidence": 0.2511415525,
+        "lift": 11.735586566
+    },
+    {
+        "base_items": "1, 2, 4",
+        "add_items": "3",
+        "support": 0.011,
+        "confidence": 0.873015873,
+        "lift": 11.7026256436
+    },
+    {
+        "base_items": "50, 96",
+        "add_items": "6, 168",
+        "support": 0.011,
+        "confidence": 0.2511415525,
+        "lift": 10.1266755045
+    },
+    {
+        "base_items": "6, 168",
+        "add_items": "50, 96",
+        "support": 0.011,
+        "confidence": 0.4435483871,
+        "lift": 10.1266755045
+    },
+    {
+        "base_items": "2, 4",
+        "add_items": "1, 3",
+        "support": 0.011,
+        "confidence": 0.5140186916,
+        "lift": 9.1462400639
+    },
+    {
+        "base_items": "96, 168",
+        "add_items": "6, 50",
+        "support": 0.011,
+        "confidence": 0.7746478873,
+        "lift": 8.9658320292
+    },
+    {
+        "base_items": "6, 102",
+        "add_items": "96",
+        "support": 0.011,
+        "confidence": 0.7236842105,
+        "lift": 7.6499388005
+    },
+    {
+        "base_items": "2, 3, 4",
+        "add_items": "1",
+        "support": 0.011,
+        "confidence": 0.9482758621,
+        "lift": 7.5983642794
+    },
+    {
+        "base_items": "1, 96",
+        "add_items": "6, 50",
+        "support": 0.011,
+        "confidence": 0.632183908,
+        "lift": 7.3169433802
+    },
+    {
+        "base_items": "6, 96",
+        "add_items": "1, 50",
+        "support": 0.011,
+        "confidence": 0.2511415525,
+        "lift": 6.715014773
+    },
+    {
+        "base_items": "1, 50",
+        "add_items": "6, 96",
+        "support": 0.011,
+        "confidence": 0.2941176471,
+        "lift": 6.715014773
+    },
+    {
+        "base_items": "6, 50, 168",
+        "add_items": "96",
+        "support": 0.011,
+        "confidence": 0.632183908,
+        "lift": 6.682705159
+    },
+    {
+        "base_items": "6, 96, 168",
+        "add_items": "50",
+        "support": 0.011,
+        "confidence": 0.8461538462,
+        "lift": 5.4101908322
+    },
+    {
+        "base_items": "1, 6, 96",
+        "add_items": "50",
+        "support": 0.011,
+        "confidence": 0.8333333333,
+        "lift": 5.3282182438
+    },
+    {
+        "base_items": "1, 2, 3",
+        "add_items": "4",
+        "support": 0.011,
+        "confidence": 0.2864583333,
+        "lift": 5.2852091021
+    },
+    {
+        "base_items": "4",
+        "add_items": "1, 2, 3",
+        "support": 0.011,
+        "confidence": 0.2029520295,
+        "lift": 5.2852091021
+    },
+    {
+        "base_items": "50, 96, 168",
+        "add_items": "6",
+        "support": 0.011,
+        "confidence": 0.9482758621,
+        "lift": 4.7796162403
+    },
+    {
+        "base_items": "6, 96",
+        "add_items": "102",
+        "support": 0.011,
+        "confidence": 0.2511415525,
+        "lift": 4.6680585969
+    },
+    {
+        "base_items": "102",
+        "add_items": "6, 96",
+        "support": 0.011,
+        "confidence": 0.2044609665,
+        "lift": 4.6680585969
+    },
+    {
+        "base_items": "50, 96",
+        "add_items": "1, 6",
+        "support": 0.011,
+        "confidence": 0.2511415525,
+        "lift": 4.5496658064
+    },
+    {
+        "base_items": "1, 6, 50",
+        "add_items": "96",
+        "support": 0.011,
+        "confidence": 0.3928571429,
+        "lift": 4.1528239203
+    },
+    {
+        "base_items": "6, 50, 96",
+        "add_items": "168",
+        "support": 0.011,
+        "confidence": 0.3481012658,
+        "lift": 4.1244225808
+    },
+    {
+        "base_items": "115",
+        "add_items": "117",
+        "support": 0.011,
+        "confidence": 0.2709359606,
+        "lift": 4.0926882265
+    },
+    {
+        "base_items": "1, 50, 96",
+        "add_items": "6",
+        "support": 0.011,
+        "confidence": 0.7971014493,
+        "lift": 4.0176484338
+    },
+    {
+        "base_items": "6, 50, 96",
+        "add_items": "1",
+        "support": 0.011,
+        "confidence": 0.3481012658,
+        "lift": 2.7892729633
+    },
+    {
+        "base_items": "50, 117",
+        "add_items": "6",
+        "support": 0.011,
+        "confidence": 0.5445544554,
+        "lift": 2.7447301182
+    },
+    {
+        "base_items": "6, 117",
+        "add_items": "50",
+        "support": 0.011,
+        "confidence": 0.3928571429,
+        "lift": 2.5118743149
+    },
+    {
+        "base_items": "96, 102",
+        "add_items": "6",
+        "support": 0.011,
+        "confidence": 0.4104477612,
+        "lift": 2.0687891189
+    },
+    {
+        "base_items": "128",
+        "add_items": "126",
+        "support": 0.0108,
+        "confidence": 0.5142857143,
+        "lift": 25.459688826
+    },
+    {
+        "base_items": "126",
+        "add_items": "128",
+        "support": 0.0108,
+        "confidence": 0.5346534653,
+        "lift": 25.459688826
+    },
+    {
+        "base_items": "50, 96",
+        "add_items": "6, 102",
+        "support": 0.0108,
+        "confidence": 0.2465753425,
+        "lift": 16.2220620043
+    },
+    {
+        "base_items": "6, 102",
+        "add_items": "50, 96",
+        "support": 0.0108,
+        "confidence": 0.7105263158,
+        "lift": 16.2220620043
+    },
+    {
+        "base_items": "50, 102",
+        "add_items": "6, 96",
+        "support": 0.0108,
+        "confidence": 0.5744680851,
+        "lift": 13.1157097056
+    },
+    {
+        "base_items": "6, 96",
+        "add_items": "50, 102",
+        "support": 0.0108,
+        "confidence": 0.2465753425,
+        "lift": 13.1157097056
+    },
+    {
+        "base_items": "6, 50, 102",
+        "add_items": "96",
+        "support": 0.0108,
+        "confidence": 0.8709677419,
+        "lift": 9.2068471663
+    },
+    {
+        "base_items": "6, 50, 96",
+        "add_items": "102",
+        "support": 0.0108,
+        "confidence": 0.3417721519,
+        "lift": 6.3526422286
+    },
+    {
+        "base_items": "102",
+        "add_items": "6, 50, 96",
+        "support": 0.0108,
+        "confidence": 0.2007434944,
+        "lift": 6.3526422286
+    },
+    {
+        "base_items": "6, 96, 102",
+        "add_items": "50",
+        "support": 0.0108,
+        "confidence": 0.9818181818,
+        "lift": 6.2776098582
+    },
+    {
+        "base_items": "96, 102",
+        "add_items": "6, 50",
+        "support": 0.0108,
+        "confidence": 0.4029850746,
+        "lift": 4.6641791045
+    },
+    {
+        "base_items": "8, 96",
+        "add_items": "50",
+        "support": 0.0108,
+        "confidence": 0.7105263158,
+        "lift": 4.5430071342
+    },
+    {
+        "base_items": "50, 96, 102",
+        "add_items": "6",
+        "support": 0.0108,
+        "confidence": 0.8307692308,
+        "lift": 4.1873449132
+    },
+    {
+        "base_items": "8, 50",
+        "add_items": "96",
+        "support": 0.0108,
+        "confidence": 0.3439490446,
+        "lift": 3.6358249956
+    },
+    {
+        "base_items": "50, 96",
+        "add_items": "8",
+        "support": 0.0108,
+        "confidence": 0.2465753425,
+        "lift": 3.453436169
+    },
+    {
+        "base_items": "40",
+        "add_items": "107",
+        "support": 0.0108,
+        "confidence": 0.216,
+        "lift": 1.8652849741
+    },
+    {
+        "base_items": "2, 5",
+        "add_items": "1, 4",
+        "support": 0.0106,
+        "confidence": 0.5463917526,
+        "lift": 29.3759006762
+    },
+    {
+        "base_items": "1, 4",
+        "add_items": "2, 5",
+        "support": 0.0106,
+        "confidence": 0.5698924731,
+        "lift": 29.3759006762
+    },
+    {
+        "base_items": "2, 4",
+        "add_items": "1, 5",
+        "support": 0.0106,
+        "confidence": 0.4953271028,
+        "lift": 22.7214267341
+    },
+    {
+        "base_items": "1, 5",
+        "add_items": "2, 4",
+        "support": 0.0106,
+        "confidence": 0.4862385321,
+        "lift": 22.7214267341
+    },
+    {
+        "base_items": "113",
+        "add_items": "111",
+        "support": 0.0106,
+        "confidence": 0.595505618,
+        "lift": 20.534676482
+    },
+    {
+        "base_items": "111",
+        "add_items": "113",
+        "support": 0.0106,
+        "confidence": 0.3655172414,
+        "lift": 20.534676482
+    },
+    {
+        "base_items": "158",
+        "add_items": "157",
+        "support": 0.0106,
+        "confidence": 0.4608695652,
+        "lift": 17.8631614425
+    },
+    {
+        "base_items": "157",
+        "add_items": "158",
+        "support": 0.0106,
+        "confidence": 0.4108527132,
+        "lift": 17.8631614425
+    },
+    {
+        "base_items": "1, 2, 4",
+        "add_items": "5",
+        "support": 0.0106,
+        "confidence": 0.8412698413,
+        "lift": 17.5264550265
+    },
+    {
+        "base_items": "5",
+        "add_items": "1, 2, 4",
+        "support": 0.0106,
+        "confidence": 0.2208333333,
+        "lift": 17.5264550265
+    },
+    {
+        "base_items": "1, 2, 5",
+        "add_items": "4",
+        "support": 0.0106,
+        "confidence": 0.7260273973,
+        "lift": 13.3953394328
+    },
+    {
+        "base_items": "1, 4, 5",
+        "add_items": "2",
+        "support": 0.0106,
+        "confidence": 0.8153846154,
+        "lift": 11.6483516484
+    },
+    {
+        "base_items": "4, 5",
+        "add_items": "1, 2",
+        "support": 0.0106,
+        "confidence": 0.3605442177,
+        "lift": 7.1253797962
+    },
+    {
+        "base_items": "1, 2",
+        "add_items": "4, 5",
+        "support": 0.0106,
+        "confidence": 0.209486166,
+        "lift": 7.1253797962
+    },
+    {
+        "base_items": "2, 4, 5",
+        "add_items": "1",
+        "support": 0.0106,
+        "confidence": 0.6973684211,
+        "lift": 5.5878879892
+    },
+    {
+        "base_items": "124",
+        "add_items": "50",
+        "support": 0.0106,
+        "confidence": 0.2345132743,
+        "lift": 1.4994454881
+    },
+    {
+        "base_items": "73",
+        "add_items": "6",
+        "support": 0.0106,
+        "confidence": 0.2849462366,
+        "lift": 1.4362209504
+    },
+    {
+        "base_items": "3, 4",
+        "add_items": "2, 5",
+        "support": 0.0104,
+        "confidence": 0.6842105263,
+        "lift": 35.2685838307
+    },
+    {
+        "base_items": "2, 5",
+        "add_items": "3, 4",
+        "support": 0.0104,
+        "confidence": 0.5360824742,
+        "lift": 35.2685838307
+    },
+    {
+        "base_items": "3, 5",
+        "add_items": "2, 4",
+        "support": 0.0104,
+        "confidence": 0.619047619,
+        "lift": 28.927458834
+    },
+    {
+        "base_items": "2, 4",
+        "add_items": "3, 5",
+        "support": 0.0104,
+        "confidence": 0.4859813084,
+        "lift": 28.927458834
+    },
+    {
+        "base_items": "2, 3, 4",
+        "add_items": "5",
+        "support": 0.0104,
+        "confidence": 0.8965517241,
+        "lift": 18.6781609195
+    },
+    {
+        "base_items": "5",
+        "add_items": "2, 3, 4",
+        "support": 0.0104,
+        "confidence": 0.2166666667,
+        "lift": 18.6781609195
+    },
+    {
+        "base_items": "2, 3, 5",
+        "add_items": "4",
+        "support": 0.0104,
+        "confidence": 0.776119403,
+        "lift": 14.3195461805
+    },
+    {
+        "base_items": "3, 4, 5",
+        "add_items": "2",
+        "support": 0.0104,
+        "confidence": 0.8253968254,
+        "lift": 11.79138322
+    },
+    {
+        "base_items": "2, 4, 5",
+        "add_items": "3",
+        "support": 0.0104,
+        "confidence": 0.6842105263,
+        "lift": 9.1717228729
+    },
+    {
+        "base_items": "4, 5",
+        "add_items": "2, 3",
+        "support": 0.0104,
+        "confidence": 0.3537414966,
+        "lift": 8.113337078
+    },
+    {
+        "base_items": "2, 3",
+        "add_items": "4, 5",
+        "support": 0.0104,
+        "confidence": 0.2385321101,
+        "lift": 8.113337078
+    },
+    {
+        "base_items": "2, 50",
+        "add_items": "1",
+        "support": 0.0104,
+        "confidence": 0.7027027027,
+        "lift": 5.6306306306
+    },
+    {
+        "base_items": "1, 50",
+        "add_items": "2",
+        "support": 0.0104,
+        "confidence": 0.2780748663,
+        "lift": 3.9724980901
+    },
+    {
+        "base_items": "118",
+        "add_items": "50",
+        "support": 0.0104,
+        "confidence": 0.2088353414,
+        "lift": 1.335264331
+    },
+    {
+        "base_items": "1, 2",
+        "add_items": "50",
+        "support": 0.0104,
+        "confidence": 0.2055335968,
+        "lift": 1.3141534325
+    },
+    {
+        "base_items": "171",
+        "add_items": "11",
+        "support": 0.0102,
+        "confidence": 0.4322033898,
+        "lift": 14.5034694574
+    },
+    {
+        "base_items": "11",
+        "add_items": "171",
+        "support": 0.0102,
+        "confidence": 0.3422818792,
+        "lift": 14.5034694574
+    },
+    {
+        "base_items": "6, 168",
+        "add_items": "1, 50",
+        "support": 0.0102,
+        "confidence": 0.4112903226,
+        "lift": 10.9970674487
+    },
+    {
+        "base_items": "1, 50",
+        "add_items": "6, 168",
+        "support": 0.0102,
+        "confidence": 0.2727272727,
+        "lift": 10.9970674487
+    },
+    {
+        "base_items": "1, 168",
+        "add_items": "6, 50",
+        "support": 0.0102,
+        "confidence": 0.7727272727,
+        "lift": 8.9436026936
+    },
+    {
+        "base_items": "50, 168",
+        "add_items": "1, 6",
+        "support": 0.0102,
+        "confidence": 0.476635514,
+        "lift": 8.6347013409
+    },
+    {
+        "base_items": "6, 148",
+        "add_items": "123",
+        "support": 0.0102,
+        "confidence": 0.3695652174,
+        "lift": 5.3872480669
+    },
+    {
+        "base_items": "1, 6, 168",
+        "add_items": "50",
+        "support": 0.0102,
+        "confidence": 0.8095238095,
+        "lift": 5.1759834369
+    },
+    {
+        "base_items": "1, 50, 168",
+        "add_items": "6",
+        "support": 0.0102,
+        "confidence": 1.0,
+        "lift": 5.0403225806
+    },
+    {
+        "base_items": "1, 168",
+        "add_items": "50",
+        "support": 0.0102,
+        "confidence": 0.7727272727,
+        "lift": 4.9407114625
+    },
+    {
+        "base_items": "6, 74",
+        "add_items": "50",
+        "support": 0.0102,
+        "confidence": 0.7727272727,
+        "lift": 4.9407114625
+    },
+    {
+        "base_items": "50, 117",
+        "add_items": "27",
+        "support": 0.0102,
+        "confidence": 0.504950495,
+        "lift": 4.7457753294
+    },
+    {
+        "base_items": "6, 50, 168",
+        "add_items": "1",
+        "support": 0.0102,
+        "confidence": 0.5862068966,
+        "lift": 4.6971706454
+    },
+    {
+        "base_items": "27, 50",
+        "add_items": "117",
+        "support": 0.0102,
+        "confidence": 0.3090909091,
+        "lift": 4.6690469651
+    },
+    {
+        "base_items": "123, 148",
+        "add_items": "6",
+        "support": 0.0102,
+        "confidence": 0.8644067797,
+        "lift": 4.3568890104
+    },
+    {
+        "base_items": "1, 6, 50",
+        "add_items": "168",
+        "support": 0.0102,
+        "confidence": 0.3642857143,
+        "lift": 4.3161814489
+    },
+    {
+        "base_items": "6, 123",
+        "add_items": "148",
+        "support": 0.0102,
+        "confidence": 0.3377483444,
+        "lift": 4.2970527274
+    },
+    {
+        "base_items": "50, 168",
+        "add_items": "1",
+        "support": 0.0102,
+        "confidence": 0.476635514,
+        "lift": 3.8191948239
+    },
+    {
+        "base_items": "1, 50",
+        "add_items": "168",
+        "support": 0.0102,
+        "confidence": 0.2727272727,
+        "lift": 3.2313657906
+    },
+    {
+        "base_items": "27, 117",
+        "add_items": "50",
+        "support": 0.0102,
+        "confidence": 0.4513274336,
+        "lift": 2.885725279
+    },
+    {
+        "base_items": "50, 74",
+        "add_items": "6",
+        "support": 0.0102,
+        "confidence": 0.4811320755,
+        "lift": 2.4250608643
+    },
+    {
+        "base_items": "74",
+        "add_items": "6, 50",
+        "support": 0.0102,
+        "confidence": 0.2090163934,
+        "lift": 2.4191712204
+    },
+    {
+        "base_items": "1, 2, 4",
+        "add_items": "3, 5",
+        "support": 0.01,
+        "confidence": 0.7936507937,
+        "lift": 47.2411186697
+    },
+    {
+        "base_items": "3, 5",
+        "add_items": "1, 2, 4",
+        "support": 0.01,
+        "confidence": 0.5952380952,
+        "lift": 47.2411186697
+    },
+    {
+        "base_items": "1, 2, 5",
+        "add_items": "3, 4",
+        "support": 0.01,
+        "confidence": 0.6849315068,
+        "lift": 45.0612833453
+    },
+    {
+        "base_items": "3, 4",
+        "add_items": "1, 2, 5",
+        "support": 0.01,
+        "confidence": 0.6578947368,
+        "lift": 45.0612833453
+    },
+    {
+        "base_items": "2, 3, 5",
+        "add_items": "1, 4",
+        "support": 0.01,
+        "confidence": 0.7462686567,
+        "lift": 40.1219707912
+    },
+    {
+        "base_items": "1, 4",
+        "add_items": "2, 3, 5",
+        "support": 0.01,
+        "confidence": 0.5376344086,
+        "lift": 40.1219707912
+    },
+    {
+        "base_items": "1, 3, 4",
+        "add_items": "2, 5",
+        "support": 0.01,
+        "confidence": 0.7692307692,
+        "lift": 39.6510705789
+    },
+    {
+        "base_items": "2, 5",
+        "add_items": "1, 3, 4",
+        "support": 0.01,
+        "confidence": 0.5154639175,
+        "lift": 39.6510705789
+    },
+    {
+        "base_items": "2, 3, 4",
+        "add_items": "1, 5",
+        "support": 0.01,
+        "confidence": 0.8620689655,
+        "lift": 39.5444479595
+    },
+    {
+        "base_items": "1, 5",
+        "add_items": "2, 3, 4",
+        "support": 0.01,
+        "confidence": 0.4587155963,
+        "lift": 39.5444479595
+    },
+    {
+        "base_items": "1, 3, 5",
+        "add_items": "2, 4",
+        "support": 0.01,
+        "confidence": 0.6329113924,
+        "lift": 29.5752987105
+    },
+    {
+        "base_items": "2, 4",
+        "add_items": "1, 3, 5",
+        "support": 0.01,
+        "confidence": 0.4672897196,
+        "lift": 29.5752987105
+    },
+    {
+        "base_items": "1, 2, 3, 4",
+        "add_items": "5",
+        "support": 0.01,
+        "confidence": 0.9090909091,
+        "lift": 18.9393939394
+    },
+    {
+        "base_items": "5",
+        "add_items": "1, 2, 3, 4",
+        "support": 0.01,
+        "confidence": 0.2083333333,
+        "lift": 18.9393939394
+    },
+    {
+        "base_items": "1, 4, 5",
+        "add_items": "2, 3",
+        "support": 0.01,
+        "confidence": 0.7692307692,
+        "lift": 17.6429075512
+    },
+    {
+        "base_items": "2, 3",
+        "add_items": "1, 4, 5",
+        "support": 0.01,
+        "confidence": 0.2293577982,
+        "lift": 17.6429075512
+    },
+    {
+        "base_items": "3, 4, 5",
+        "add_items": "1, 2",
+        "support": 0.01,
+        "confidence": 0.7936507937,
+        "lift": 15.6847982935
+    },
+    {
+        "base_items": "1, 2, 3, 5",
+        "add_items": "4",
+        "support": 0.01,
+        "confidence": 0.7692307692,
+        "lift": 14.1924496168
+    },
+    {
+        "base_items": "1, 2, 4, 5",
+        "add_items": "3",
+        "support": 0.01,
+        "confidence": 0.9433962264,
+        "lift": 12.6460620163
+    },
+    {
+        "base_items": "1, 3, 4, 5",
+        "add_items": "2",
+        "support": 0.01,
+        "confidence": 0.8333333333,
+        "lift": 11.9047619048
+    },
+    {
+        "base_items": "2, 4, 5",
+        "add_items": "1, 3",
+        "support": 0.01,
+        "confidence": 0.6578947368,
+        "lift": 11.7063120435
+    },
+    {
+        "base_items": "1, 2, 3",
+        "add_items": "4, 5",
+        "support": 0.01,
+        "confidence": 0.2604166667,
+        "lift": 8.8577097506
+    },
+    {
+        "base_items": "4, 5",
+        "add_items": "1, 2, 3",
+        "support": 0.01,
+        "confidence": 0.3401360544,
+        "lift": 8.8577097506
+    },
+    {
+        "base_items": "2, 3, 4, 5",
+        "add_items": "1",
+        "support": 0.01,
+        "confidence": 0.9615384615,
+        "lift": 7.7046351085
+    },
+    {
+        "base_items": "134",
+        "add_items": "131",
+        "support": 0.01,
+        "confidence": 0.243902439,
+        "lift": 6.9290465632
+    },
+    {
+        "base_items": "131",
+        "add_items": "134",
+        "support": 0.01,
+        "confidence": 0.2840909091,
+        "lift": 6.9290465632
+    },
+    {
+        "base_items": "116",
+        "add_items": "117",
+        "support": 0.01,
+        "confidence": 0.3355704698,
+        "lift": 5.0690403293
+    },
+    {
+        "base_items": "10, 96",
+        "add_items": "50",
+        "support": 0.01,
+        "confidence": 0.7692307692,
+        "lift": 4.918355302
+    },
+    {
+        "base_items": "10, 50",
+        "add_items": "96",
+        "support": 0.01,
+        "confidence": 0.3521126761,
+        "lift": 3.7221213114
+    },
+    {
+        "base_items": "50, 96",
+        "add_items": "10",
+        "support": 0.01,
+        "confidence": 0.2283105023,
+        "lift": 3.4803430226
+    },
+    {
+        "base_items": "115",
+        "add_items": "6",
+        "support": 0.01,
+        "confidence": 0.2463054187,
+        "lift": 1.2414587637
+    }
+]
