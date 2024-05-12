@@ -19,17 +19,22 @@ class game_service:
         return unique_genres
     
     #api/games/get_all_games
+    @staticmethod
     def get_all_games():
         games = GameDetail.objects.values('id', 'name', 'image')
 
         if games == None: return None
 
-        return games
+        data = [{'id': game['id'],
+                 'name': game['name'],
+                 'image': game['image']
+                 }for game in games]
+
+        return data
         
     #api/games/{game_id}
+    @staticmethod
     def get_game_by_id(game_id):
-        game_id = str(game_id)
-
         game_detail = GameDetail.objects.get(id=game_id)
         game_info = GameInfo.objects.get(id=game_id)
 
@@ -50,3 +55,17 @@ class game_service:
         }
 
         return games
+    
+    @staticmethod
+    def get_game_by_genres(genres):
+        games = GameDetail.objects.values('id', 'name', 'image', 'genres').filter(genres__contains=genres)
+
+        if games == None: return None
+
+        data = [{'id': game['id'],
+                 'name': game['name'],
+                 'image': game['image'],
+                 'genres': game['genres']
+                 }for game in games]
+
+        return data

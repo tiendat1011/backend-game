@@ -9,7 +9,8 @@ from playground.views import api_handler
 urlpatterns = [
     path('games/genres/', require_http_methods(["GET"])(api_handler.get_game_genres_api)),
     path('games/get_all_games/', require_http_methods(["GET"])(api_handler.get_all_games_api)),
-    path('games/<str:game_id>/', require_http_methods(["GET"])(api_handler.get_game_detail_api))
+    path('games/<str:game_id>/', require_http_methods(["GET"])(api_handler.get_game_detail_api)),
+    path('games/search_by_genres/<str:genres>/', require_http_methods(["GET"])(api_handler.get_game_by_genres_api))
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
