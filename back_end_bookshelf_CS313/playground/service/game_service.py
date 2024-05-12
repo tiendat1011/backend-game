@@ -57,6 +57,19 @@ class game_service:
         return games
     
     @staticmethod
+    def get_game_by_id_recommend(game_id):
+        game_id = int(game_id)
+        game = GameDetail.objects.values('id', 'name', 'image').get(id=game_id)
+
+        if game == None: return None
+
+        data = {'id': game['id'],
+                 'name': game['name'],
+                 'image': game['image']}
+
+        return data
+    
+    @staticmethod
     def get_game_by_genres(genres):
         games = GameDetail.objects.values('id', 'name', 'image', 'genres').filter(genres__contains=genres)
 
