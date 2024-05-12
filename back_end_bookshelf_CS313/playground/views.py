@@ -46,3 +46,24 @@ class api_handler:
         return JsonResponse({'success': True,
                             'ErrorMsg': None,
                             'data': games_list}, status=200)
+    
+    
+    @api_view(['GET'])
+    @staticmethod
+    def get_game_detail_api(request, game_id):
+        try:
+            game = game_service.get_game_by_id(game_id)
+        except Exception as e:
+            return JsonResponse({'success': False,
+                                 'ErrorMsg': str(e),
+                                 'data': None}, status=500)
+        
+        if game == None:
+            return JsonResponse({'success': False,
+                                 'ErrorMsg': "Not found any game",
+                                 'data': None}, status=404)
+        
+
+        return JsonResponse({'success': True,
+                            'ErrorMsg': None,
+                            'data': game}, status=200)

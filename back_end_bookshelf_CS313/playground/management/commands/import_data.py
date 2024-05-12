@@ -49,7 +49,7 @@ class Command(BaseCommand):
 
             for item in game_info:
                 name = item.get("Name")
-                about_game = item.get("about_game")
+                about_game = item.get("About game")
                 gameplay = item.get("Gameplay")
                 price = item.get("Price")
                 video = item.get("Video")

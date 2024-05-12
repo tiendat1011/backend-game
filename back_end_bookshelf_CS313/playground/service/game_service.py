@@ -1,4 +1,4 @@
-from playground.models import GameDetail
+from playground.models import GameDetail, GameInfo
 
 
 class game_service:
@@ -18,7 +18,7 @@ class game_service:
 
         return unique_genres
     
-    #api/all_games
+    #api/games/get_all_games
     def get_all_games():
         games = GameDetail.objects.values('id', 'name', 'image')
 
@@ -26,3 +26,27 @@ class game_service:
 
         return games
         
+    #api/games/{game_id}
+    def get_game_by_id(game_id):
+        game_id = str(game_id)
+
+        game_detail = GameDetail.objects.get(id=game_id)
+        game_info = GameInfo.objects.get(id=game_id)
+
+        if game_detail == None or game_info == None: return None
+
+        games = {
+            'image': game_detail.image,
+            'name': game_detail.name,
+            'developer': game_detail.developer,
+            'publisher': game_detail.publisher,
+            'genres': game_detail.genres,
+            'operating_systems': game_detail.operating_systems,
+            'date_released': game_detail.date_released,
+            'about_game': game_info.about_game,
+            'gameplay': game_info.gameplay,
+            'price': game_info.price,
+            'video': game_info.video
+        }
+
+        return games
