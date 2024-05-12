@@ -1,56 +1,71 @@
 import json
 from django.core.management.base import BaseCommand
-from django.shortcuts import get_object_or_404
-from playground.models import Game
-from django.db import transaction, connection
+from playground.models import GameDetail, GameInfo
 
 class Command(BaseCommand):
-    help = 'Import data from JSON file to database'
+    def handle(self, *args, **kwargs):
+        self.import_game_detail()
+        self.import_game_info()
+        
 
-    def handle(self, *args, **options):
-        self.clear_data()
-        #self.reset_primary_keys()
-        self.import_transactions()
-
-    # def handle(self, *args, **options):
-    #     try:
-    #         with open('playground/data/books_data.json', 'r') as file:
-    #             data = json.load(file)
-    #             for item in data:
-    #                 models.Book.objects.create(**item)  
-                    
-    #         self.stdout.write(self.style.SUCCESS('Data imported successfully'))
-    #     except FileNotFoundError:
-    #         self.stdout.write(self.style.ERROR('File not found'))
-    #     except Exception as e:
-    #         self.stdout.write(self.style.ERROR(f'An error occurred: {str(e)}'))
-
-    def clear_data(self):
-        Game.objects.all().delete()
-        #PurchaseOrder.objects.all().delete()
-        self.stdout.write(self.style.SUCCESS('Data cleared successfully'))
-
-    def reset_primary_keys(self):
-        with connection.cursor() as cursor:
-            cursor.execute("DELETE FROM sqlite_sequence WHERE name='PurchaseOrder'")
-            cursor.execute("DELETE FROM sqlite_sequence WHERE name='OrderDetail'")
-        self.stdout.write(self.style.SUCCESS('Reset primary key sequence for PurchaseOrder and OrderDetail successfully'))
-
-    def import_transactions(self):
+    def import_game_detail(self):
         try:
-            with open('playground/data/trailer_vid.json', 'r', encoding='utf-8') as file:
-                transactions = json.load(file)
+            with open('playground/data/game_detail.json', 'r', encoding='utf-8') as file:
+                game_details = json.load(file)
 
-            for item in transactions:
-                name = item.get('Name')
-                about_game = item.get('about_game')
-                gameplay = item.get('gameplay')
-                price = item.get('price')
-                video = item.get('Video')
+            for item in game_details:
+                link = item.get("Link")
+                image = item.get("Image")
+                name = item.get("Name")
+                developer = item.get("Developer")
+                publisher = item.get("Publisher")
+                genres = item.get("Genres")
+                operating_systems = item.get("Operating systems")
+                date_released = item.get("Date released")
 
-                game_details = Game.objects.create(name=name, about_game=about_game, gameplay=gameplay, price=price, video=video)
+
+                GameDetail.objects.create(
+                    link=link,
+                    image=image,
+                    name=name,
+                    developer=developer,
+                    publisher=publisher,
+                    genres=genres,
+                    operating_systems=operating_systems,
+                    date_released=date_released)
+                
+            self.stdout.write(self.style.SUCCESS('Import game detail successful'))
 
         except FileNotFoundError:
-            self.stdout.write(self.style.ERROR('Transactions file not found'))
+            self.stdout.write(self.style.ERROR('Game detail not found'))
         except json.JSONDecodeError:
             self.stdout.write(self.style.ERROR('Error decoding JSON'))
+
+    
+    def import_game_info(self):
+        try:
+            with open('playground/data/game_info.json', 'r', encoding='utf-8') as file:
+                game_info = json.load(file)
+
+            for item in game_info:
+                name = item.get("Name")
+                about_game = item.get("about_game")
+                gameplay = item.get("Gameplay")
+                price = item.get("Price")
+                video = item.get("Video")
+
+
+                GameInfo.objects.create(
+                    name=name, 
+                    about_game=about_game, 
+                    gameplay=gameplay, 
+                    price=price, 
+                    video=video)
+                
+            self.stdout.write(self.style.SUCCESS('Import game info successful'))
+
+        except FileNotFoundError:
+            self.stdout.write(self.style.ERROR('Game info not found'))
+        except json.JSONDecodeError:
+            self.stdout.write(self.style.ERROR('Error decoding JSON'))
+
