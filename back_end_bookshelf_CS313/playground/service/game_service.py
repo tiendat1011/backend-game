@@ -21,22 +21,23 @@ class game_service:
     #api/games/get_all_games
     @staticmethod
     def get_all_games():
-        games = GameDetail.objects.values('id', 'name', 'image')
+        games = GameDetail.objects.values('id', 'name', 'image', 'genres')
 
         if games == None: return None
 
         data = [{'id': game['id'],
                  'name': game['name'],
-                 'image': game['image']
+                 'image': game['image'],
+                 'genres': game['genres']
                  }for game in games]
 
         return data
         
-    #api/games/{game_id}
+    #api/games/{game_name}
     @staticmethod
-    def get_game_by_id(game_id):
-        game_detail = GameDetail.objects.get(id=game_id)
-        game_info = GameInfo.objects.get(id=game_id)
+    def get_game_by_name(game_name):
+        game_detail = GameDetail.objects.get(name=game_name)
+        game_info = GameInfo.objects.get(name=game_name)
 
         if game_detail == None or game_info == None: return None
 

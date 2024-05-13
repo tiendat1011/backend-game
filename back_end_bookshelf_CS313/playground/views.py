@@ -37,9 +37,9 @@ class api_handler:
     
     @api_view(['GET'])
     @staticmethod
-    def get_game_detail_api(request, game_id):
+    def get_game_detail_api(request, game_name):
         try:
-            game = game_service.get_game_by_id(game_id)
+            game = game_service.get_game_by_name(game_name)
         except Exception as e:
             return JsonResponse(str(e), status=500, safe=False)
         
